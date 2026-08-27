@@ -1,4 +1,9 @@
-D 'vuong': Performs Vuong (1989 Econometrica) test comparing (possibly) non-nested linear regression specifications Use vuong With STATA 19
+D 'xtdynestimb': Dynamic linear panel-data estimators robust to structural breaks, long-T overidentification, and error cross-sectional dependence Use xtdynestimb With STATA 19
 D
-F vuong.ado
-F vuong.hlp
+F xtdynestimb.ado
+F xtdynestimb.sthlp
+F xtdynestimb_ablasso.sthlp
+F xtdynestimb_csdgmm.sthlp
+F xtdynestimb_dd.sthlp
+F xtdynestimb_postestimation.sthlp
+F xtdynestimb_predict.ado
