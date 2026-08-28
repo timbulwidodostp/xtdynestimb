@@ -1,6 +1,8 @@
 # xtdynestimb
 Dynamic linear panel-data estimators robust to structural breaks, long-T overidentification, and error cross-sectional dependence Use xtdynestimb With STATA 19
 
+https://www.youtube.com/watch?v=DcvoLeowwKk
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
